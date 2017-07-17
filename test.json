@@ -1,164 +1,164 @@
 {
-    books =     (
-                {
-            detail =             (
-                "\U4e1c\U65b9\U7384\U5e7b",
-                "\U897f\U65b9\U5947\U5e7b",
-                "\U5f02\U754c\U5927\U9646",
-                "\U738b\U671d\U4e89\U9738"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_fantasy.png";
-            name = "\U7384\U5e7b";
-        },
-                {
-            detail =             (
-                "\U8fdb\U5316\U53d8\U5f02",
-                "\U672a\U6765\U5e7b\U60f3",
-                "\U661f\U9645\U4e89\U9738",
-                "\U65f6\U7a7a\U7a7f\U68ad"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_science-fiction.png";
-            name = "\U79d1\U5e7b";
-        },
-                {
-            detail =             (
-                "\U56fd\U672f\U65e0\U53cc",
-                "\U95e8\U6d3e\U6597\U4e89",
-                "\U6c5f\U6e56\U4f20\U8bf4",
-                "\U6b66\U672f\U5e7b\U60f3"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_Martial-arts.png";
-            name = "\U6b66\U4fa0";
-        },
-                {
-            detail =             (
-                "\U5947\U5e7b\U4fee\U771f",
-                "\U68a6\U5e7b\U4ed9\U754c",
-                "\U6c38\U751f\U5883\U5730",
-                "\U73b0\U4ee3\U5f02\U4fa0"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_immortal.png";
-            name = "\U4ed9\U4fa0";
-        },
-                {
-            detail =             (
-                "\U5f02\U672f\U8d85\U80fd",
-                "\U6069\U6028\U60c5\U4ec7",
-                "\U70ed\U8840\U9752\U6625",
-                "\U73b0\U5b9e\U767e\U6001"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_city.png";
-            name = "\U90fd\U5e02";
-        },
-                {
-            detail =             (
-                "\U73b0\U4ee3\U6fc0\U60c5",
-                "\U53e4\U4ee3\U6d6a\U6f2b",
-                "\U4ed9\U4fa0\U60c5\U7f18",
-                "\U60c5\U573a\U6597\U4e89"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_Romance.png";
-            name = "\U8a00\U60c5";
-        },
-                {
-            detail =             (
-                "\U67b6\U7a7a\U7a7f\U8d8a",
-                "\U5386\U53f2\U4f20\U8bb0",
-                "\U6c11\U95f4\U4f20\U8bf4",
-                "\U4e2d\U5916\U4f20\U95fb"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_history.png";
-            name = "\U5386\U53f2";
-        },
-                {
-            detail =             (
-                "\U6297\U6218\U70fd\U706b",
-                "\U519b\U65c5\U751f\U6daf",
-                "\U8c0d\U6218\U7279\U5de5",
-                "\U6218\U4e89\U5e7b\U60f3"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_Military.png";
-            name = "\U519b\U4e8b";
-        },
-                {
-            detail =             (
-                "\U7535\U5b50\U7ade\U6280",
-                "\U68cb\U724c\U7ade\U6280",
-                "\U7403\U7c7b\U7ade\U6280",
-                "\U6781\U9650\U7ade\U6280"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_athletics.png";
-            name = "\U7ade\U6280";
-        },
-                {
-            detail =             (
-                "\U865a\U62df\U7f51\U53cb",
-                "\U5f02\U754c\U6e38\U620f",
-                "\U68cb\U724c\U684c\U6e38",
-                "\U6e38\U620f\U751f\U6daf"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_game.png";
-            name = "\U6e38\U620f";
-        },
-                {
-            detail =             (
-                "\U53db\U9006\U6210\U957f",
-                "\U7eaf\U60c5\U6d6a\U6f2b",
-                "\U9752\U6625\U6821\U56ed",
-                "\U82b1\U6837\U5e74\U534e"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_schoolyard.png";
-            name = "\U6821\U56ed";
-        },
-                {
-            detail =             (
-                "\U804c\U573a\U52b1\U5fd7",
-                "\U5b98\U573a\U6c89\U6d6e",
-                "\U660e\U661f\U751f\U6d3b",
-                "\U5546\U6218\U785d\U70df"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_caree.png";
-            name = "\U804c\U573a";
-        },
-                {
-            detail =             (
-                "\U4fa6\U63a2\U63a8\U7406",
-                "\U5bfb\U5893\U63a2\U9669",
-                "\U6050\U6016\U60ca\U609a",
-                "\U60ac\U5ff5\U4e1b\U751f"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_suspense.png";
-            name = "\U60ac\U7591";
-        },
-                {
-            detail =             (
-                "\U9b3c\U602a\U5947\U8c08",
-                "\U9634\U9633\U76f8\U901a",
-                "\U98ce\U6c34\U79d8\U672f",
-                "\U8be1\U5f02\U4e16\U754c"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_mysterious.png";
-            name = "\U7075\U5f02";
-        },
-                {
-            detail =             (
-                "\U539f\U751f\U5e7b\U60f3",
-                "\U884d\U751f\U540c\U4eba",
-                "\U7075\U9b42\U4e92\U6362",
-                "\U67b6\U7a7a\U4e16\U754c"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_Quadratic-element.png";
-            name = "\U4e8c\U6b21\U5143";
-        },
-                {
-            detail =             (
-                "\U5f71\U89c6\U540c\U4eba",
-                "\U6e38\U620f\U540c\U4eba",
-                "\U52a8\U6f2b\U540c\U4eba",
-                "\U5c0f\U8bf4\U540c\U4eba"
-            );
-            imageUrl = "http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_colleagues.png";
-            name = "\U540c\U4eba";
-        }
-    );
+	books = [
+{
+	name = 玄幻,
+	detail = [
+东方玄幻,
+西方奇幻,
+异界大陆,
+王朝争霸
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_fantasy.png
+},
+{
+	name = 科幻,
+	detail = [
+进化变异,
+未来幻想,
+星际争霸,
+时空穿梭
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_science-fiction.png
+},
+{
+	name = 武侠,
+	detail = [
+国术无双,
+门派斗争,
+江湖传说,
+武术幻想
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_Martial-arts.png
+},
+{
+	name = 仙侠,
+	detail = [
+奇幻修真,
+梦幻仙界,
+永生境地,
+现代异侠
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_immortal.png
+},
+{
+	name = 都市,
+	detail = [
+异术超能,
+恩怨情仇,
+热血青春,
+现实百态
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_city.png
+},
+{
+	name = 言情,
+	detail = [
+现代激情,
+古代浪漫,
+仙侠情缘,
+情场斗争
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_Romance.png
+},
+{
+	name = 历史,
+	detail = [
+架空穿越,
+历史传记,
+民间传说,
+中外传闻
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_history.png
+},
+{
+	name = 军事,
+	detail = [
+抗战烽火,
+军旅生涯,
+谍战特工,
+战争幻想
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_Military.png
+},
+{
+	name = 竞技,
+	detail = [
+电子竞技,
+棋牌竞技,
+球类竞技,
+极限竞技
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_athletics.png
+},
+{
+	name = 游戏,
+	detail = [
+虚拟网友,
+异界游戏,
+棋牌桌游,
+游戏生涯
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_game.png
+},
+{
+	name = 校园,
+	detail = [
+叛逆成长,
+纯情浪漫,
+青春校园,
+花样年华
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_schoolyard.png
+},
+{
+	name = 职场,
+	detail = [
+职场励志,
+官场沉浮,
+明星生活,
+商战硝烟
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_caree.png
+},
+{
+	name = 悬疑,
+	detail = [
+侦探推理,
+寻墓探险,
+恐怖惊悚,
+悬念丛生
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_suspense.png
+},
+{
+	name = 灵异,
+	detail = [
+鬼怪奇谈,
+阴阳相通,
+风水秘术,
+诡异世界
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_mysterious.png
+},
+{
+	name = 二次元,
+	detail = [
+原生幻想,
+衍生同人,
+灵魂互换,
+架空世界
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_Quadratic-element.png
+},
+{
+	name = 同人,
+	detail = [
+影视同人,
+游戏同人,
+动漫同人,
+小说同人
+],
+	imageUrl = http://com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/res/cover/ima_book_colleagues.png
+}
+]
 }
