@@ -311,9 +311,36 @@ function name(arg1,arg2,...,argn) {
 
 ## 9.9 字符串函数
 
-> `length(string)`返回字符串string的长度
+* `length(string)`返回字符串string的长度
+
+### 9.9.1 子字符串提取
+
+* `substr(string, start, len)` . 字符的位置，从1开始编号[图片]
+
+### 9.9.2 字母大小写转换
+
+* `tolower(string)`:转成小写  `toupper(string)`:转成大写
+
+### 9.9.3 字符串查找
+
+* `index(string,subStr)`: 查找字符串中是否有subStr字符串，并返回subStr字符串的起始位置。如果找不到就返回0
+
+### 9.9.4 字符串匹配
+
+* `match(string, regexp)`: 将string与正则表达式regexp匹配.如果匹配则返回匹配string的索引，不匹配则返回0
+
+### 9.9.5 字符串替换
+
+* `sub(regexp, replacement, target)`将target与正则表达式regexp进行匹配，将最左边最长的匹配部分替换为字符串replacement.
+* `gsub(regexp, replacement, target)`全局替换
+
+### 9.9.6 字符串替换
+
+* split(string, array, regexp):将string切割为片段，并存储在array中，匹配regexp的字符串作为分隔字符串。如果regexp不存在，则使用内建字段FS的当前默认值。返回值为array里元素的数量
 
 
+### 9.10 数值函数
 
-
+![](./image/9-4-1.png)
+![](./image/9-4-2.png)
 
